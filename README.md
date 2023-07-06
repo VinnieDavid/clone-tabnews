@@ -1,2 +1,2 @@
 # clone-tabnews
-The first project in JavaScript =)
+"The first project in JavaScript =)"
